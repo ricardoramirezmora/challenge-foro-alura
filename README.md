@@ -34,22 +34,22 @@ Creación de topicos mediante el ingreso obligatorio de titulo, mensaje, autor y
 ### Mostrar una lista de tópicos
 Se muestra una lista de los tópicos guardados(Se muestra el código 200 OK)
 
-![Imágen mostrar lista de tópicos](https://github.com/ricardoramirezmora/foro-alura/blob/main/Listar%20Topicos.jpg)
+![Imágen mostrar lista de tópicos](https://github.com/ricardoramirezmora/challenge-foro-alura/blob/master/Listar%20Topicos.jpg)
 
 ### Mostrar un tópico en especifico
 Se muestra un tópico especificando el ID en la URL(Se muestra el código 200 OK)
 
-![Imágen mostrar tópico especifico](https://github.com/ricardoramirezmora/foro-alura/blob/main/Listar%20Topico%20por%20ID.jpg)
+![Imágen mostrar tópico especifico](https://github.com/ricardoramirezmora/challenge-foro-alura/blob/master/Listar%20Topico%20por%20ID.jpg)
 
 ### Actualizar un tópico
 Se puede actualizar un topico especificando el ID en el cuerpo JSON(Se muestra el código 200 OK)
 
-![Imágen actualizar tópico](https://github.com/ricardoramirezmora/foro-alura/blob/main/Actualizar%20Topico.jpg)
+![Imágen actualizar tópico](https://github.com/ricardoramirezmora/challenge-foro-alura/blob/master/Actualizar%20Topico.jpg)
 
 ### Eliminar un tópico
 Se puede eliminar un tópico indicando el ID en la URL(Se muestra el código 204) 
 
-![Imágen eliminar tópico](https://github.com/ricardoramirezmora/foro-alura/blob/main/Eliminar%20Topico.jpg)
+![Imágen eliminar tópico](https://github.com/ricardoramirezmora/challenge-foro-alura/blob/master/Eliminar%20Topico.jpg)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://github.com/ricardoramirezmora)
