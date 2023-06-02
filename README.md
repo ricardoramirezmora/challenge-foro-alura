@@ -29,7 +29,7 @@ Este proyecto permite la creacion de topicos, mediante el ingreso obligatorio de
 ### Guardar un tópico
 Creación de topicos mediante el ingreso obligatorio de titulo, mensaje, autor y curso (Se muestra el código 201 despues de un guardado exitoso)
 
-![Imágen guardar tópico](https://github.com/ricardoramirezmora/foro-alura/blob/main/Guardar%20Topico.jpg)
+![Imágen guardar tópico](https://github.com/ricardoramirezmora/challenge-foro-alura/blob/master/Guardar%20Topico.jpg)
 
 ### Mostrar una lista de tópicos
 Se muestra una lista de los tópicos guardados(Se muestra el código 200 OK)
